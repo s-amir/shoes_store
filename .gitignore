@@ -1,0 +1,4 @@
+/shoesStore/statics
+/venv
+*.pyc
+__pycache__
